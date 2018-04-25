@@ -7,7 +7,10 @@ Send your user/recommended katas to envman@gmail.com
 
 ### MOAR ###
 
+#### Morse Code ####
 http://www.codewars.com/kata/54b724efac3d5402db00065e
+http://www.codewars.com/kata/decode-the-morse-code-advanced
 
-g
+
+### Others ###
 https://www.codewars.com/kata/calculate-string-rotation
