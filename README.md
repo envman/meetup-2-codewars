@@ -6,4 +6,8 @@ https://www.codewars.com
 Send your user/recommended katas to envman@gmail.com
 
 ### MOAR ###
+
 http://www.codewars.com/kata/54b724efac3d5402db00065e
+
+g
+https://www.codewars.com/kata/calculate-string-rotation
